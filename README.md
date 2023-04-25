@@ -1,7 +1,9 @@
 # classifyMixedPopulations
 
 April 22, 2023.
-Written by Chau Ly.
+Written by Chau Ly. Department of Bioengineering. 
+Laboratory of Dr. Amy Rowat, University of California, Los Angeles.
+
 The general design of the code is further detailed in the publication
 referenced here: 
 Ly C, Ogana H, Kim HN, Hurwitz S, Deeds EJ, Kim YM, Rowat AC."Altered
