@@ -1,7 +1,7 @@
 # classifyMixedPopulations
 
-April 22, 2023
-Written by Chau Ly
+April 22, 2023.
+Written by Chau Ly.
 The general design of the code is further detailed in the publication
 referenced below: 
 Ly C, Ogana H, Kim HN, Hurwitz S, Deeds EJ, Kim YM, Rowat AC."Altered
