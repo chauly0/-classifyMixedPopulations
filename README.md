@@ -3,7 +3,7 @@
 April 22, 2023.
 Written by Chau Ly.
 The general design of the code is further detailed in the publication
-referenced below: 
+referenced here: 
 Ly C, Ogana H, Kim HN, Hurwitz S, Deeds EJ, Kim YM, Rowat AC."Altered
 physical phenotypes of leukemia cells that survive chemotherapy
 treatment." Integrative Biology (2023). 
